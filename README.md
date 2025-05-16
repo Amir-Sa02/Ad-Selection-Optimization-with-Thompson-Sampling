@@ -35,8 +35,8 @@ Thompson Sampling is a Bayesian method for solving the multi-armed bandit proble
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/thompson-sampling-ad-selection.git
-   cd thompson-sampling-ad-selection
+   $ git clone https://github.com/Amir-Sa02/Ad-Selection-Optimization-with-Thompson-Sampling
+   $ cd thompson-sampling-ad-selection
    ```
 
 2. Upload your dataset `Ads_CTR_Optimisation.csv` to your Google Drive or working directory.
