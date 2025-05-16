@@ -36,7 +36,7 @@ Thompson Sampling is a Bayesian method for solving the multi-armed bandit proble
 
    ```bash
    $ git clone https://github.com/Amir-Sa02/Ad-Selection-Optimization-with-Thompson-Sampling
-   $ cd thompson-sampling-ad-selection
+   $ cd Ad-Selection-Optimization-with-Thompson-Sampling
    ```
 
 2. Upload your dataset `Ads_CTR_Optimisation.csv` to your Google Drive or working directory.
@@ -59,13 +59,3 @@ Thompson Sampling progressively focuses on the most successful ads based on obse
 * Improved ad selection through reinforcement learning
 * Balanced exploration of all ads with exploitation of high-performing ones
 * Demonstrated a practical use case for Bayesian inference
-
----
-
-## Reference
-
-This project is based on the Thompson Sampling implementation in the [SuperDataScience Machine Learning A–Z™ course](https://www.udemy.com/course/machinelearning/).
-
----
-
-Let me know if you'd like help converting this to a `README.md` file or adjusting it further.
